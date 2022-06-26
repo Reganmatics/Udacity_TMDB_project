@@ -8,7 +8,7 @@ Project: Investigate a Movie Dataset (TMDb Movies Dataset)
 - [JuzerShakir repository](https://github.com/JuzerShakir/Investigate_TMDb_Movies)
 - [antra0497 repository](https://github.com/antra0497/Udacity--Project-Investigate-TMDB-Movies-Dataset)
 - [stackoverflow](https://stackoverflow.com/)
-- [GOOGLE](google.com)
+- [GOOGLE](https://google.com)
 
 
 ## Author: Regan Joshua
